@@ -1,0 +1,2 @@
+ invoke-webrequest -uri https://iasecontent.disa.mil/stigs/zip/U_STIG_GPO_Package_July_2018.zip -outfile
+ gpos.zip -usebasicparsing
